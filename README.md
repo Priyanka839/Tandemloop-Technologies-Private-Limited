@@ -54,6 +54,10 @@ output : 1
 2 , 1
 1
 
+you can run my code i done in visual studio file name is halfpyramidseries.py
+
 
 Problem-3: Create responsive UI from scratch as given in link :- "responsive-ui-1.png".
 Image link : https://drive.google.com/file/d/1J_CT2eGr08oaL_E-hwFfdOwxVBvf3tLx/view?usp=sharing
+
+you can run responsive.html
