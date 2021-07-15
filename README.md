@@ -6,7 +6,8 @@ Problem-1: Create a small calculator which performs operations such as Addition,
 Calculator inputs :> ‘a’, ‘b’ and ‘type of operation’
 Datatype :> ‘a’ = double, ‘b’ = double, ‘type of operation’ = string
 
-you can run  my code i done in visual studio
+you can run  my code i done in visual studio 
+file name is calculator.py
 
 
 Problem-2: With a single integer as the input, generate the following until a = x [series of numbers as shown in below examples]
