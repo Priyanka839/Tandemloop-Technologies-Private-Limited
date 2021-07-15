@@ -22,6 +22,8 @@ Output: (examples)
 .
 7) input a = x, then output : 1, 3, 5, 7, .......
 
+you can run my code i done in visual studio file name is series.py
+
 
 Problem-3: With a single integer as the input, generate the following until a = x [series of numbers as shown in below examples]
 e.g. 1)
